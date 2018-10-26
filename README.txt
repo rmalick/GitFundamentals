@@ -4,4 +4,4 @@ Again modifying
 Updating with new info
 
 Updating from another location
-Sharing is fun
+Sharing is funny
